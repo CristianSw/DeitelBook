@@ -1,4 +1,4 @@
-package practiceFromDeitel.chapter5;
+package chapter5;
 //Ex. 5.12
 public class ProductOfOdd {
     public static void main(String[] args) {

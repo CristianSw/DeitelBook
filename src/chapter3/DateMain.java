@@ -1,4 +1,4 @@
-package practiceFromDeitel.chapter3;
+package chapter3;
 //Ex. 3.14
 public class DateMain {
     public static void main(String[] args) {

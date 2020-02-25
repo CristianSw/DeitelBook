@@ -1,4 +1,4 @@
-package practiceFromDeitel.chapter3;
+package chapter3;
 
 public class Acount {
     private String name;

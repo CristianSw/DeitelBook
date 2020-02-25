@@ -1,4 +1,4 @@
-package practiceFromDeitel.chapter3;
+package chapter3;
 //Ex. 3.13
 public class EmployeeMain {
     public static void main(String[] args) {

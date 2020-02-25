@@ -1,4 +1,4 @@
-package practiceFromDeitel.chapter4;
+package chapter4;
 
 public class CreditLimitCalculator {
     int accountNo, startBalance, totalCharges, totalCredits, creditLimit;

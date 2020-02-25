@@ -1,4 +1,4 @@
-package practiceFromDeitel.chapter3;
+package chapter3;
 //Ex. 3.12
 public class InvoiceMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package practiceFromDeitel.chapter2;
+package chapter2;
 //Ex. 2.29
 
 import javax.swing.*;

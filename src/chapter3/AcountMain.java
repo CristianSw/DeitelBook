@@ -1,4 +1,4 @@
-package practiceFromDeitel.chapter3;
+package chapter3;
 
 //Ex. 3.11 & 3.15
 public class AcountMain {

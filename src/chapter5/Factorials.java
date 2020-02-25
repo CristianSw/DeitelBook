@@ -1,4 +1,4 @@
-package practiceFromDeitel.chapter5;
+package chapter5;
 //Ex.5.13
 import java.util.Scanner;
 

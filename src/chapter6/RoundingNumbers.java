@@ -19,7 +19,6 @@ public class RoundingNumbers {
     }
 
     public static double roundNumber(final double number){
-        double y = Math.floor(number + 0.5);
-        return y;
+        return Math.floor(number + 0.5);
     }
 }

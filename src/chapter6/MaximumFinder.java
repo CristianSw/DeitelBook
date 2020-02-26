@@ -19,7 +19,7 @@ public class MaximumFinder {
 
     }
 
-    public static double maximum(double first, double second, double third) {
+    public static double maximum(final double first, final double second, final double third) {
         double localMax;
         localMax = Math.max(first, second);
         if (localMax > third) {

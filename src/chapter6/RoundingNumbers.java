@@ -2,6 +2,8 @@ package chapter6;
 //Ex.6.9
 import java.util.Scanner;
 
+import static chapter6.RoundingNumbersAdvanced.roundToInteger;
+
 
 public class RoundingNumbers {
     public static void main(String[] args) {
@@ -13,12 +15,9 @@ public class RoundingNumbers {
         while (scanner.hasNext()){
             number = scanner.nextDouble();
             System.out.println("Your Number is : " + number);
-            roundNumber = roundNumber(number);
+            roundNumber = roundToInteger(number);
             System.out.println("Round number is : " + roundNumber);
         }
     }
 
-    public static double roundNumber(final double number){
-        return Math.floor(number + 0.5);
-    }
 }

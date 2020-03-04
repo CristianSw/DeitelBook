@@ -1,5 +1,5 @@
 package chapter6;
-
+//Ex. 6.17
 import java.util.Scanner;
 
 public class EvenOrODd {
